@@ -1,5 +1,5 @@
-# referencestrangeblockchainprotocolclient
-The reference Strange blockchain Protocol client
+# for all ecological powerful eternal multieditable blockchain protocol reference client
+The reference $Eterna blockchain Protocol client
 
 
 
